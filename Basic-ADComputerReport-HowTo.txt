@@ -1,0 +1,10 @@
+#
+# Basic_ADComputerReport_HowTo.ps1
+#
+
+1: Put the ps1 and the bat into the same folder
+2: right click and select edit on the .ps1 file
+3: On line three of the script verify that c:\temp\ is where you want the export, if not change the path
+4: save the .ps1 file with same name
+5: right click on the .bat and run-as administrator
+6: grab the computerreport.csv file from the path you chose
